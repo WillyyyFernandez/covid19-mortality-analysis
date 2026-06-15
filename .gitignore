@@ -1,0 +1,13 @@
+# Datos duros 
+data/raw/
+data/raw/
+
+# Ignorar por completo la carpeta de datos crudos y procesados
+data/raw/
+data/processed/
+notebooks/data/
+# Entornos virtuales y caché de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
