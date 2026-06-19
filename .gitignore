@@ -4,9 +4,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Excluir la carpeta de dashboards en desarrollo
-dashboard/
-
 # Excluir los datos crudos (raw)
 data/raw/
 
