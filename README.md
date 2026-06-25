@@ -9,19 +9,17 @@
 
 ### Executive View — KPIs & Temporal Evolution
 
-![Executive Dashboard]
 <img width="2428" height="1364" alt="dashboard_ejecutivo" src="https://github.com/user-attachments/assets/baa1a502-fd2d-4a06-a6b0-64db1480855f" />
 
 
 ### State-Level Analysis
 
-![States Dashboard]
 <img width="2428" height="1368" alt="dashboard_estados" src="https://github.com/user-attachments/assets/d1eb02d3-d07b-44de-8f66-984cbb19b9b1" />
 
 
 ### Demographic Analysis
 
-![Demographic Dashboard]<img width="2424" height="1362" alt="dashboard_demográfico" src="https://github.com/user-attachments/assets/df42fc0f-b964-4c5a-a908-bd760e51cdcd" />
+<img width="2424" height="1362" alt="dashboard_demográfico" src="https://github.com/user-attachments/assets/df42fc0f-b964-4c5a-a908-bd760e51cdcd" />
 
 
   
