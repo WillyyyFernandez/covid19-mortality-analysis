@@ -1,5 +1,3 @@
-<img width="2428" height="1364" alt="dashboard_ejecutivo" src="https://github.com/user-attachments/assets/bd25222f-8726-4407-b491-6df0149151ad" />
-<img width="2428" height="1364" alt="dashboard_ejecutivo" src="https://github.com/user-attachments/assets/baea1924-4a1c-484d-a567-66f9e34a2f2b" />
 # COVID-19 Mortality & Risk Factor Analysis — Mexico
 
 > End-to-end epidemiological analysis of COVID-19 in Mexico combining official SSA surveillance data (2025) with a historical Kaggle dataset (2020–2021). Covers ETL, feature engineering, CFR modelling, and a three-page interactive Power BI dashboard.
@@ -11,15 +9,20 @@
 
 ### Executive View — KPIs & Temporal Evolution
 
-![Executive Dashboard](C:\Users\willi\Documents\proyectos\covid19-mortality-analysis\screenshots\dashboard_ejecutivo.png)
+![Executive Dashboard]
+<img width="2428" height="1364" alt="dashboard_ejecutivo" src="https://github.com/user-attachments/assets/baa1a502-fd2d-4a06-a6b0-64db1480855f" />
+
 
 ### State-Level Analysis
 
-![States Dashboard](C:\Users\willi\Documents\proyectos\covid19-mortality-analysis\screenshots\dashboard_estados.png)
+![States Dashboard]
+<img width="2428" height="1368" alt="dashboard_estados" src="https://github.com/user-attachments/assets/d1eb02d3-d07b-44de-8f66-984cbb19b9b1" />
+
 
 ### Demographic Analysis
 
-![Demographic Dashboard](C:\Users\willi\Documents\proyectos\covid19-mortality-analysis\screenshots\dashboard_demográfico.png)
+![Demographic Dashboard]<img width="2424" height="1362" alt="dashboard_demográfico" src="https://github.com/user-attachments/assets/df42fc0f-b964-4c5a-a908-bd760e51cdcd" />
+
 
   
 
