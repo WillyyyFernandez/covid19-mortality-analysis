@@ -52,7 +52,7 @@
 covid19-mortality-analysis/
 │
 ├── dashboard/
-│   ├── Dashboard Covid-19 México 2025.pbix
+│   ├── Dashboard Covid-19 México 2025.pbix # Main dashboard with the information
 │
 ├── data/
 │   ├── raw/                          # Source datasets
@@ -101,7 +101,7 @@ covid19-mortality-analysis/
 ### Dataset 1 — Official SSA Surveillance (`COVID19MEXICO.csv`)
 
 - **Source:** Mexico's Ministry of Health (Secretaría de Salud)
-- **Records:** ~137,000
+- **Records:** 137,000
 - **Updated:** November 18, 2025
 - **Scope:** Full granularity — state of residence, symptom onset date, admission date, age, all comorbidities, hospitalization, intubation, and death
 - **Role:** Sole fact table driving the Power BI dashboard and all its date/state/age filters
